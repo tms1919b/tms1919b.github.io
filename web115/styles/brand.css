@@ -5,7 +5,8 @@ body {
 
 h1 {
   color: rgb(0, 0, 0);
-  font-size: 34px; font-size: 32px;
+  font-size: 34px;
+  font-size: 32px;
 }
 
 main {
@@ -15,4 +16,7 @@ main {
 
 footer {
   color: rgb(0, 0, 0);
+}
+.goals {
+  font-family: Arial, Helvetica, sans-serif;
 }
