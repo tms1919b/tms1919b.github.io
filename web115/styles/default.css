@@ -4,18 +4,20 @@ body {
 }
 
 h1 {
-  color: rgba(255, 255, 255, 0.534);
+  color: rgba(0, 0, 0, 0.534);
 }
 
 h2 {
-  color: rgba(255, 255, 255, 0.534);
+  color: rgba(0, 0, 0, 0.534);
 }
 
 main {
-  color: rgba(255, 255, 255, 0.534);
+  color: rgba(0, 0, 0, 0.534);
 }
 
 footer {
-  color: rgba(255, 255, 255, 0.534);
+  color: rgba(0, 0, 0, 0.534);
 }
-a{color: rgba(133, 89, 202, 0.534);}
+a {
+  color: rgb(255, 182, 25);
+}
