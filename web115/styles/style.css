@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(136, 62, 62);
+  background-color: rgb(136, 62, 62); text-align: center;
 }
 
 h1 {
@@ -16,4 +16,10 @@ main {
 
 footer {
   color: rgb(255, 255, 255);
+}
+p {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-right: 30px;
+  margin-left: 30px;
 }

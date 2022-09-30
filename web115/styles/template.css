@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(70, 175, 216);
+    font-family: Arial, Helvetica, sans-serif; text-align: center;
+  }
+  
+  h1 {
+    color: rgba(0, 0, 0, 0.534);
+  }
+  
+  h2 {
+    color: rgba(0, 0, 0, 0.534);
+  }
+  
+  main {
+    color: rgba(0, 0, 0, 0.534);
+  }
+  
+  footer {
+    color: rgba(0, 0, 0, 0.534);
+  }
+  a {
+    color: rgb(132, 25, 255);
+    font-style: italic;
+  }
+  p {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: 30px;
+    margin-left: 30px;
+  }
