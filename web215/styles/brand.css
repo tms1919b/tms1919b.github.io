@@ -5,7 +5,7 @@ body {
 
 h1 {
     color: rgb(0, 0, 0);
-    font-size: 45;
+    font-size: 45px;
 }
 
 h2 {
@@ -14,7 +14,7 @@ h2 {
 
 main {
     color: rgb(0, 0, 0);
-    font-size: 44;
+    font-size: 44px;
 }
 
 footer {
