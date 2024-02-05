@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(245, 189, 2);
+    text-align: center;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    font-size: 45;
+}
+
+h2 {
+    color: rgb(0, 0, 0);
+}
+
+main {
+    color: rgb(0, 0, 0);
+    font-size: 44;
+}
+
+footer {
+    color: rgb(0, 0, 0);
+}
