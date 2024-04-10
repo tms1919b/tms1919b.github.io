@@ -1,8 +1,19 @@
 body {
-    /* you better change this stuff */
-    margin: 250px;
-    font-family: papyrus;
-    color: rgb(19, 110, 98);
-    background-color: rgb(255, 221, 221);
-    font-size: 300%;
+    background-color: rgb(136, 62, 62);
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+}
+
+h2 {
+    color: rgb(255, 255, 255);
+}
+
+main {
+    color: azure;
+}
+
+footer {
+    color: rgb(255, 255, 255);
 }
