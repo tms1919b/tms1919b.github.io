@@ -1,16 +1,21 @@
 {
-    "links": [
-        {
-            "text": "Introduction",
-            "href": "introduction.html"
-        },
-        {
-            "text": "Contract",
-            "href": "contract.html"
-        },
-        {
-            "text": "Brand",
-            "href": "brand.html"
-        }
-    ]
+    "header": {
+        "links": [
+            {
+                "text": "Introduction",
+                "href": "introduction.html"
+            },
+            {
+                "text": "Contract",
+                "href": "contract.html"
+            },
+            {
+                "text": "Brand",
+                "href": "brand.html"
+            }
+        ]
+    },
+    "footer": {
+        "text": "LACED UP"
+    }
 }
