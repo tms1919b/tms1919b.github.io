@@ -16,6 +16,32 @@
         ]
     },
     "footer": {
-        "text": "LACED UP"
+        "text": "© 2024 LACED UP - All rights reserved.",
+        "profileLinks": [
+            {
+                "href": "https://jsfiddle.net/user/thomasmsikes/fiddles/",
+                "text": "JSFiddle"
+            },
+            {
+                "href": "https://github.com/tms1919b/tms1919b.github.io",
+                "text": "GitHub"
+            },
+            {
+                "href": "https://www.codecademy.com/profiles/tms1919b",
+                "text": "Codecademy"
+            }
+        ],
+        "validatorLinks": [
+            {
+                "href": "https://validator.w3.org/nu/?doc=https%3A%2F%2Ftms1919b.github.io%2Fweb250%2Fprojects%2Fbrand",
+                "imgSrc": "valid-html-blue.png",
+                "alt": "HTML5 Validator"
+            },
+            {
+                "href": "https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ftms1919b.github.io%2Fweb250%2Fprojects%2Fintroduction&amp;profile=css3svg&amp;usermedium=all&amp;warning=1&amp;vextwarning=&amp;lang=en",
+                "imgSrc": "valid-css-blue.png",
+                "alt": "CSS Validator"
+            }
+        ]
     }
 }
