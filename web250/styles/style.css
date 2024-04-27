@@ -1,19 +1,65 @@
 body {
-    background-color: rgb(136, 62, 62);
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
 }
 
-h1 {
-    color: rgb(255, 255, 255);
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #333;
 }
 
-h2 {
-    color: rgb(255, 255, 255);
+
+a {
+    color: #055ada;
+    text-decoration: none;
 }
 
-main {
-    color: azure;
+a:hover {
+    text-decoration: underline;
 }
+
+
+header nav {
+    background-color: #f8f9fa;
+    padding: 10px 0;
+    text-align: center;
+}
+
+
+header nav a {
+    color: #007bff;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+
+header nav a:hover {
+    text-decoration: underline;
+}
+
 
 footer {
-    color: rgb(255, 255, 255);
+    background-color: #343a40;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+
+footer a {
+    color: #f8f9fa;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+footer a:hover {
+    color: #cccccc;
+    text-decoration: underline;
 }
