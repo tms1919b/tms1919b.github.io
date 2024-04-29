@@ -1,5 +1,7 @@
 body {
     background-color: rgb(136, 62, 62);
+    padding: 20px;
+    /* Add padding to the body */
 }
 
 h1 {
