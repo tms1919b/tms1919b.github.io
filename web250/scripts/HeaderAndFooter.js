@@ -1,5 +1,5 @@
 function loadHeaderFooter(headerOption) {
-    fetch('path/to/headerFooterData.json')
+    fetch('navLinks.json')
         .then(response => response.json())
         .then(data => {
             let headerContent = data[headerOption];
