@@ -1,4 +1,4 @@
 {
-    "header1": "<header><h1>Thomas Sikes - WEB250</h1><h2>Course Contract</h2></header>",
-    "header2": "<header><h1>Another Header Title</h1><h2>Another Header Subtitle</h2></header>"
+    "contractHeader": "<header><h1>Thomas Sikes - WEB250</h1><h2>Course Contract</h2></header>",
+    "anotherHeader": "<header><h1>Another Header Title</h1><h2>Another Header Subtitle</h2></header>"
 }
