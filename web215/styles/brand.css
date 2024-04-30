@@ -1,6 +1,8 @@
 body {
     background-color: rgb(245, 189, 2);
     text-align: center;
+    padding: 20px;
+    /* Added padding */
 }
 
 h1 {
