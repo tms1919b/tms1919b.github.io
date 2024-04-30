@@ -23,7 +23,7 @@ function addHeader() {
 
     // add banner with slogan - add with brand design?
     const sloganBanner = document.createElement("h3");
-    sloganBanner.innerHTML = "<em>LACED UP</em>";
+    sloganBanner.innerHTML = "<i>LACED UP</i>";
     header.append(sloganBanner);
 
     // add nav container
