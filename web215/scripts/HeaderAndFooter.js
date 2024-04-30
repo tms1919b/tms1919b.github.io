@@ -18,7 +18,7 @@ function addHeader() {
     const name = "Thomas Sikes";
     const mascot = "Indri";
     const course = "WEB215";
-    h1.innerHTML = `${name}'s ${mascot} | ${course}`;
+    h1.innerHTML = `${name}'s ${mascot} ${course}`;
     header.append(h1);
 
     // add banner with slogan - add with brand design?
