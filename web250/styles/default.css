@@ -1,21 +1,24 @@
 body {
-    background-color: rgb(226, 226, 185);
+    background-color: rgb(245, 189, 2);
+    text-align: center;
     padding: 20px;
-    /* Add padding to the body */
+    /* Added padding */
 }
 
 h1 {
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-size: 45px;
 }
 
 h2 {
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
 }
 
 main {
-    color: azure;
+    color: rgb(0, 0, 0);
+    font-size: 44px;
 }
 
 footer {
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
 }
