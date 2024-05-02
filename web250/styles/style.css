@@ -31,7 +31,7 @@ footer {
 #introductionPage h1 {
     color: rgb(0, 0, 0);
     font-size: 45px;
-    text-align: left; /* Remove the center alignment */
+    text-align: center; /* Remove the center alignment */
 }
 
 #introductionPage h2 {
