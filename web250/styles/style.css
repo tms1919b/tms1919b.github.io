@@ -22,3 +22,28 @@ main {
 footer {
     color: rgb(0, 0, 0);
 }
+
+#introductionPage {
+    background-color: rgb(245, 189, 2);
+    padding: 20px; /* Keep the padding */
+}
+
+#introductionPage h1 {
+    color: rgb(0, 0, 0);
+    font-size: 45px;
+    text-align: left; /* Remove the center alignment */
+}
+
+#introductionPage h2 {
+    color: rgb(0, 0, 0);
+}
+
+#introductionPage main {
+    color: rgb(0, 0, 0);
+    font-size: 44px;
+    text-align: left; /* Remove the center alignment */
+}
+
+#introductionPage footer {
+    color: rgb(0, 0, 0);
+}
