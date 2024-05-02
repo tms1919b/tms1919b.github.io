@@ -25,15 +25,26 @@ footer {
     color: rgb(55, 122, 148);
 }
 
+nav ul {
+    list-style-type: none; 
+    display: flex; 
+    justify-content: center; 
+}
+
+nav ul li {
+    margin-right: 20px; 
+}
+
+
 #introductionPage {
     background-color: rgb(245, 189, 2);
-    padding: 20px; /* Keep the padding */
+    padding: 20px; 
 }
 
 #introductionPage h1 {
     color: rgb(55, 122, 148);
     font-size: 45px;
-    text-align: center; /* Remove the center alignment */
+    text-align: center; 
 }
 
 #introductionPage h2 {
@@ -43,7 +54,7 @@ footer {
 #introductionPage main {
     color: rgb(55, 122, 148);
     font-size: 44px;
-    text-align: left; /* Remove the center alignment */
+    text-align: left; 
 }
 
 #introductionPage footer {
