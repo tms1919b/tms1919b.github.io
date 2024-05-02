@@ -6,17 +6,19 @@ body {
 }
 
 h1 {
-    color: rgb(0, 0, 0);
+    color: rgb(55, 122, 148);
     font-size: 45px;
 }
 
 h2 {
-    color: rgb(0, 0, 0);
-}
+    color: rgb(55, 122, 148);}
 
 main {
-    color: rgb(0, 0, 0);
-    font-size: 44px;
+    color: rgb(55, 122, 148);    font-size: 44px;
+}
+
+footer {
+    color: rgb(55, 122, 148);
 }
 
 footer {
