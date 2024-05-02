@@ -27,7 +27,7 @@ footer {
 
 nav ul {
     list-style-type: none;
-    display: flex;
+    display: flex; /* Make links horizontal */
     justify-content: center;
     padding: 0;
 }
