@@ -22,7 +22,7 @@ footer {
 }
 
 footer {
-    color: rgb(0, 0, 0);
+    color: rgb(55, 122, 148);
 }
 
 #introductionPage {
@@ -31,21 +31,21 @@ footer {
 }
 
 #introductionPage h1 {
-    color: rgb(0, 0, 0);
+    color: rgb(55, 122, 148);
     font-size: 45px;
     text-align: center; /* Remove the center alignment */
 }
 
 #introductionPage h2 {
-    color: rgb(0, 0, 0);
+    color: rgb(55, 122, 148);
 }
 
 #introductionPage main {
-    color: rgb(0, 0, 0);
+    color: rgb(55, 122, 148);
     font-size: 44px;
     text-align: left; /* Remove the center alignment */
 }
 
 #introductionPage footer {
-    color: rgb(0, 0, 0);
+    color: rgb(55, 122, 148);
 }
