@@ -11,14 +11,13 @@ h1 {
 }
 
 h2 {
-    color: rgb(55, 122, 148);}
-
-main {
-    color: rgb(55, 122, 148);    font-size: 44px;
+    color: rgb(55, 122, 148);
 }
 
-footer {
+main {
     color: rgb(55, 122, 148);
+    font-size: 44px;
+    text-align: left; /* Adjusted alignment to left */
 }
 
 footer {
@@ -55,7 +54,7 @@ nav ul li {
 #introductionPage main {
     color: rgb(55, 122, 148);
     font-size: 44px;
-    text-align: left; 
+    text-align: left; /* Adjusted alignment to left */
 }
 
 #introductionPage footer {
