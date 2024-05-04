@@ -6,7 +6,7 @@ body {
 
 h1 {
     color: rgb(55, 122, 148);
-    font-size: 45px;
+    font-size: 44px;
 }
 
 h2 {
@@ -32,6 +32,10 @@ nav ul {
 
 nav ul li {
     margin-right: 30px; /* Increased spacing between navigation links */
+}
+
+nav ul li a {
+    font-size: 40px; /* Increased font size for navigation links */
 }
 
 #introductionPage {
