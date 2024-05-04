@@ -1,15 +1,15 @@
 body {
-    background-color: rgb(245, 189, 2); /* Goldish background */
+    background-color: rgb(212, 212, 64); /* Light olive background */
     text-align: center;
     padding: 20px;
 }
 
 h1, h2, footer {
-    color: rgb(255, 204, 153); /* Light peach text color */
+    color: rgb(140, 84, 55); /* Brownish text color */
 }
 
 main {
-    color: rgb(235, 235, 235); /* Light grayish text color */
+    color: rgb(116, 144, 152); /* Steel blue text color */
     font-size: 32px;
     text-align: left;
 }
@@ -27,7 +27,7 @@ nav ul li {
 
 nav ul li a {
     font-size: 30px;
-    color: rgb(245, 189, 2); /* Goldish text color for navigation links */
+    color: rgb(139, 70, 58); /* Dark salmon text color for navigation links */
     text-decoration: none;
 }
 
@@ -36,22 +36,22 @@ nav ul li a:hover {
 }
 
 #introductionPage {
-    background-color: rgb(245, 189, 2); /* Goldish background */
+    background-color: rgb(212, 212, 64); /* Light olive background */
     padding: 10px;
 }
 
 #introductionPage h1, #introductionPage h2, #introductionPage footer {
-    color: rgb(255, 204, 153); /* Light peach text color */
+    color: rgb(140, 84, 55); /* Brownish text color */
 }
 
 #introductionPage main {
-    color: rgb(235, 235, 235); /* Light grayish text color */
+    color: rgb(116, 144, 152); /* Steel blue text color */
     font-size: 32px;
     text-align: left;
 }
 
 figcaption {
-    color: rgb(245, 189, 2); /* Goldish text color for fig-caption */
+    color: rgb(140, 84, 55); /* Brownish text color for fig-caption */
 }
 
 hr + i {
