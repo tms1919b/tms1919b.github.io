@@ -77,3 +77,13 @@ hr + i {
     display: block;
     text-align: center;
 }
+
+/* Apply consistent styles to navigation links in all pages */
+nav ul li a {
+    color: rgb(55, 122, 148);
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    color: rgb(0, 0, 0);
+}
