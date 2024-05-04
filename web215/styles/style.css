@@ -58,3 +58,8 @@ hr + i {
     display: block;
     text-align: center;
 }
+
+/* Style the first letter of the first word in the bulleted list */
+#introductionPage main ul li::first-letter {
+    font-weight: bold;
+}
