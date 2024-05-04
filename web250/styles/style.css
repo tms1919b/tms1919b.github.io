@@ -2,7 +2,6 @@ body {
     background-color: rgb(245, 189, 2);
     text-align: center;
     padding: 20px;
-    /* Added padding */
 }
 
 h1 {
@@ -17,7 +16,7 @@ h2 {
 main {
     color: rgb(55, 122, 148);
     font-size: 44px;
-    text-align: left; /* Adjusted alignment to left */
+    text-align: left;
 }
 
 footer {
@@ -32,13 +31,12 @@ nav ul {
 }
 
 nav ul li {
-    margin-right: 10px; /* Adjusted spacing */
+    margin-right: 30px; /* Adjusted spacing */
 }
 
 nav ul li:first-child {
     margin-left: 10px; /* Added left margin to first link */
 }
-
 
 #introductionPage {
     background-color: rgb(245, 189, 2);
@@ -58,7 +56,7 @@ nav ul li:first-child {
 #introductionPage main {
     color: rgb(55, 122, 148);
     font-size: 44px;
-    text-align: left; /* Adjusted alignment to left */
+    text-align: left;
 }
 
 #introductionPage footer {
