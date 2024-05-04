@@ -26,17 +26,18 @@ footer {
 nav ul {
     list-style-type: none;
     display: flex;
-    justify-content: space-around; /* Centered with equal spacing */
+    justify-content: space-around;
     padding: 0;
 }
 
 nav ul li {
-    margin-right: 30px; /* Increased spacing between navigation links */
+    margin-right: 30px;
 }
 
 nav ul li a {
-    font-size: 30px; /* Increased font size for navigation links */
+    font-size: 30px;
 }
+
 
 #introductionPage {
     background-color: rgb(245, 189, 2);
