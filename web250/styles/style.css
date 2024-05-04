@@ -15,7 +15,7 @@ h2 {
 
 main {
     color: rgb(55, 122, 148);
-    font-size: 44px;
+    font-size: 36px;
     text-align: left;
 }
 
@@ -36,7 +36,7 @@ nav ul li {
 
 #introductionPage {
     background-color: rgb(245, 189, 2);
-    padding: 20px; 
+    padding: 10px; 
 }
 
 #introductionPage h1 {
