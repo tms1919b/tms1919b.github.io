@@ -31,11 +31,11 @@ nav ul {
 }
 
 nav ul li {
-    margin-right: 150px; /* Adjusted spacing */
+    margin-right: 20px; /* Adjusted spacing */
 }
 
 nav ul li:first-child {
-    margin-left: 10px; /* Added left margin to first link */
+    margin-left: 0; /* Removed left margin from first link */
 }
 
 #introductionPage {
