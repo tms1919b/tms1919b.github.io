@@ -1,89 +1,60 @@
 body {
-    background-color: rgb(136, 136, 0); /* Dark olive background */
+    background-color: rgb(136, 136, 0);
     text-align: center;
     padding: 20px;
 }
 
-h1 {
-    color: rgb(204, 102, 0); /* Dark orange text color for h1 */
-    font-size: 44px;
-}
-
-h2 {
-    color: rgb(204, 102, 0); /* Dark orange text color for h2 */
+h1, h2, footer {
+    color: rgb(204, 102, 0);
 }
 
 main {
-    color: rgb(255, 204, 153); /* Light peach text color for main content */
+    color: rgb(255, 204, 153);
     font-size: 32px;
     text-align: left;
-}
-
-footer {
-    color: rgb(204, 102, 0); /* Dark orange text color for footer */
 }
 
 nav ul {
     list-style-type: none;
     display: flex;
-    justify-content: space-around; /* Centered with equal spacing */
+    justify-content: space-around;
     padding: 0;
 }
 
 nav ul li {
-    margin-right: 30px; /* Increased spacing between navigation links */
+    margin-right: 30px;
 }
 
 nav ul li a {
-    font-size: 30px; /* Increased font size for navigation links */
-    color: rgb(102, 102, 0); /* Olive text color for navigation links */
-    text-decoration: none; /* Remove underline from links */
+    font-size: 30px;
+    color: rgb(102, 102, 0);
+    text-decoration: none;
 }
 
 nav ul li a:hover {
-    color: rgb(0, 0, 0); /* Change color on hover to black */
+    color: rgb(0, 0, 0);
 }
 
 #introductionPage {
-    background-color: rgb(136, 136, 0); /* Dark olive background */
+    background-color: rgb(136, 136, 0);
     padding: 10px;
 }
 
-#introductionPage h1 {
-    color: rgb(204, 102, 0); /* Dark orange text color for h1 */
-    font-size: 45px;
-    text-align: center; 
-}
-
-#introductionPage h2 {
-    color: rgb(204, 102, 0); /* Dark orange text color for h2 */
+#introductionPage h1, #introductionPage h2, #introductionPage footer {
+    color: rgb(204, 102, 0);
 }
 
 #introductionPage main {
-    color: rgb(255, 204, 153); /* Light peach text color for main content */
+    color: rgb(255, 204, 153);
     font-size: 32px;
     text-align: left;
 }
 
-#introductionPage footer {
-    color: rgb(204, 102, 0); /* Dark orange text color for footer */
-}
-
 figcaption {
-    color: rgb(102, 102, 0); /* Olive text color for fig-caption */
+    color: rgb(102, 102, 0);
 }
 
 hr + i {
     display: block;
     text-align: center;
-}
-
-/* Apply consistent styles to navigation links in all pages */
-nav ul li a {
-    color: rgb(102, 102, 0); /* Olive text color for navigation links */
-    text-decoration: none;
-}
-
-nav ul li a:hover {
-    color: rgb(0, 0, 0); /* Change color on hover to black */
 }
