@@ -35,7 +35,7 @@ nav ul li {
 }
 
 nav ul li:first-child {
-    margin-left: 0; /* Removed left margin from first link */
+    margin-left: 0; /* Removed left margin from the first link */
 }
 
 #introductionPage {
@@ -62,3 +62,4 @@ nav ul li:first-child {
 #introductionPage footer {
     color: rgb(55, 122, 148);
 }
+
