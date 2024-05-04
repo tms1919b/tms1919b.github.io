@@ -1,24 +1,23 @@
 body {
-    background-color: rgb(245, 189, 2);
+    background-color: rgb(245, 189, 2); /* Orange background */
     text-align: center;
-    padding: 20px;
-    /* Added padding */
+    padding: 20px; /* Added padding */
 }
 
 h1 {
-    color: rgb(0, 0, 0);
+    color: rgb(136, 62, 62); /* Dark red text color for h1 */
     font-size: 45px;
 }
 
 h2 {
-    color: rgb(0, 0, 0);
+    color: rgb(136, 62, 62); /* Dark red text color for h2 */
 }
 
 main {
-    color: rgb(0, 0, 0);
+    color: azure; /* Light blue text color for main content */
     font-size: 44px;
 }
 
 footer {
-    color: rgb(0, 0, 0);
+    color: rgb(136, 62, 62); /* Dark red text color for footer */
 }
