@@ -26,16 +26,12 @@ footer {
 nav ul {
     list-style-type: none;
     display: flex;
-    justify-content: center;
+    justify-content: space-around; /* Centered with equal spacing */
     padding: 0;
 }
 
 nav ul li {
-    margin-right: 20px; /* Adjusted spacing */
-}
-
-nav ul li:first-child {
-    margin-left: 0; /* Removed left margin from the first link */
+    margin-right: 10px; /* Adjusted spacing */
 }
 
 #introductionPage {
@@ -62,4 +58,3 @@ nav ul li:first-child {
 #introductionPage footer {
     color: rgb(55, 122, 148);
 }
-
