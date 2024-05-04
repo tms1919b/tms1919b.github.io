@@ -27,7 +27,7 @@ nav ul {
     list-style-type: none;
     display: flex;
     justify-content: space-around; /* Centered with equal spacing */
-    padding: 0;
+    padding: 12;
 }
 
 nav ul li {
