@@ -38,35 +38,6 @@ nav ul li a {
     font-size: 30px; /* Increased font size for navigation links */
 }
 
-nav ul li a strong {
-    color: inherit; /* Inherit color from parent for strong tags within navigation links */
-}
-
-#introductionPage {
-    background-color: rgb(245, 189, 2);
-    padding: 10px; 
-}
-
-#introductionPage h1 {
-    color: rgb(55, 122, 148);
-    font-size: 45px;
-    text-align: center; 
-}
-
-#introductionPage h2 {
-    color: rgb(55, 122, 148);
-}
-
-#introductionPage main {
-    color: rgb(55, 122, 148);
-    font-size: 32px;
-    text-align: left;
-}
-
-#introductionPage footer {
-    color: rgb(55, 122, 148);
-}
-
 figcaption {
     color: rgb(55, 122, 148); /* Set font color of fig-caption to match main content */
 }
