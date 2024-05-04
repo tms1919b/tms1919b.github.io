@@ -62,3 +62,7 @@ nav ul li a {
 #introductionPage footer {
     color: rgb(55, 122, 148);
 }
+
+figcaption {
+    color: rgb(55, 122, 148); /* Set font color of fig-caption to match main content */
+}
