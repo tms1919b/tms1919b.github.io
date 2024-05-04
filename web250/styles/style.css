@@ -37,3 +37,11 @@ nav ul li {
 nav ul li a {
     font-size: 30px; /* Increased font size for navigation links */
 }
+
+#introductionPage nav ul {
+    /* Styles specific to navigation links in introduction.html */
+}
+
+figcaption {
+    color: rgb(55, 122, 148); /* Set font color of fig-caption to match main content */
+}
