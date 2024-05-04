@@ -67,6 +67,8 @@ figcaption {
     color: rgb(55, 122, 148); /* Set font color of fig-caption to match main content */
 }
 
-.centered-text {
-    text-align: center; /* Center-align the text */
+hr + i {
+    display: block;
+    text-align: center;
 }
+
