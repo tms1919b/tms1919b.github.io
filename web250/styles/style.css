@@ -36,6 +36,12 @@ nav ul li {
 
 nav ul li a {
     font-size: 30px; /* Increased font size for navigation links */
+    color: rgb(55, 122, 148); /* Set color for navigation links */
+    text-decoration: none; /* Remove underline from links */
+}
+
+nav ul li a:hover {
+    color: rgb(0, 0, 0); /* Change color on hover */
 }
 
 #introductionPage {
@@ -71,4 +77,3 @@ hr + i {
     display: block;
     text-align: center;
 }
-
